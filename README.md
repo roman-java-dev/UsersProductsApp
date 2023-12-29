@@ -51,3 +51,4 @@ To get started with the project, follow these steps:
    "status": "Paid"<br>
    }] } 
 10. To test the project with end-to-end integration tests, you need to start both the server and the tests.
+11. For testing in Postman, a default user will be created in the database with <b>username: "Alice" and password: "12345678".</b> You can use it for authentication.
